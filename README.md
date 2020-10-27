@@ -1,1 +1,1 @@
-# mini_calculadora
+# mini_proyecto Calculadora
